@@ -9,7 +9,7 @@ void main(){
     n1=n%10;
     rev=rev!*10+n1;
     n=n~/10;
-
+//hello
   }
   print("$rev");
 
